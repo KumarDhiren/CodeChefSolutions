@@ -1,2 +1,2 @@
-# CodeChefSolutions
+# OnlineCodingSolutions
 A repository containing all Code Chef Codes
